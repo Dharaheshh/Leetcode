@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dharaheshh/Leetcode/tree/master/0001-two-sum) |
+| [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
 | [0152-maximum-product-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dharaheshh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dharaheshh/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0065-valid-number](https://github.com/Dharaheshh/Leetcode/tree/master/0065-valid-number) |
+| [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dharaheshh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Segment Tree
 |  |
@@ -40,4 +42,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0152-maximum-product-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
