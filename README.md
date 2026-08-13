@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dharaheshh/Leetcode/tree/master/0001-two-sum) |
+| [0152-maximum-product-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dharaheshh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dharaheshh/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dharaheshh/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dharaheshh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
