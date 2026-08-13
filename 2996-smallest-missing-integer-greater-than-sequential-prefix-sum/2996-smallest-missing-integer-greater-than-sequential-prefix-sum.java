@@ -8,5 +8,6 @@ class Solution {
         Arrays.sort(nums);
         for(int i = 0; i < nums.length; i++) if(nums[i] == sum) sum++;
         return sum;
+        //optimized
     }
 }
