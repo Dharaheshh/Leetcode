@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
+| [2029-stone-game-ix](https://github.com/Dharaheshh/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dharaheshh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dharaheshh/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dharaheshh/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -76,8 +77,33 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
+| [2029-stone-game-ix](https://github.com/Dharaheshh/Leetcode/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
+## Math
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Dharaheshh/Leetcode/tree/master/2029-stone-game-ix) |
+## Greedy
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Dharaheshh/Leetcode/tree/master/2029-stone-game-ix) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Dharaheshh/Leetcode/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Dharaheshh/Leetcode/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Dharaheshh/Leetcode/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Dharaheshh/Leetcode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
