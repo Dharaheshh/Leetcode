@@ -151,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Dharaheshh/Leetcode/tree/master/1872-stone-game-viii) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Dharaheshh/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Dharaheshh/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
