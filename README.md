@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Dharaheshh/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/Dharaheshh/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Dharaheshh/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Dharaheshh/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dharaheshh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dharaheshh/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [1563-stone-game-v](https://github.com/Dharaheshh/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Dharaheshh/Leetcode/tree/master/1872-stone-game-viii) |
 ## Backtracking
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Dharaheshh/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Dharaheshh/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Dharaheshh/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Dharaheshh/Leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dharaheshh/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -110,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Dharaheshh/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Dharaheshh/Leetcode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/Dharaheshh/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Dharaheshh/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Dharaheshh/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Dharaheshh/Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -124,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Dharaheshh/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Dharaheshh/Leetcode/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
@@ -141,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dharaheshh/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Prefix Sum
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/Dharaheshh/Leetcode/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
