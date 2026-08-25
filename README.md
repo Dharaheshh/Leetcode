@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dharaheshh/Leetcode/tree/master/0001-two-sum) |
 | [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dharaheshh/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0219-contains-duplicate-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dharaheshh/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0754-reach-a-number](https://github.com/Dharaheshh/Leetcode/tree/master/0754-reach-a-number) |
 | [1563-stone-game-v](https://github.com/Dharaheshh/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Dharaheshh/Leetcode/tree/master/1872-stone-game-viii) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Dharaheshh/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Dharaheshh/Leetcode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Dharaheshh/Leetcode/tree/master/0739-daily-temperatures) |
 ## Design
