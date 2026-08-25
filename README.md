@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dharaheshh/Leetcode/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/Dharaheshh/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -179,4 +180,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/Dharaheshh/Leetcode/tree/master/0397-integer-replacement) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Dharaheshh/Leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Dharaheshh/Leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
