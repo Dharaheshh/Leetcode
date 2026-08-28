@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dharaheshh/Leetcode/tree/master/0001-two-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dharaheshh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0822-card-flipping-game](https://github.com/Dharaheshh/Leetcode/tree/master/0822-card-flipping-game) |
 | [1386-cinema-seat-allocation](https://github.com/Dharaheshh/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dharaheshh/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dharaheshh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dharaheshh/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Dharaheshh/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Dharaheshh/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0065-valid-number](https://github.com/Dharaheshh/Leetcode/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dharaheshh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1927-sum-game](https://github.com/Dharaheshh/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dharaheshh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dharaheshh/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
