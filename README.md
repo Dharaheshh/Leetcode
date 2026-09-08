@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dharaheshh/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Dharaheshh/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Dharaheshh/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharaheshh/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dharaheshh/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Dharaheshh/Leetcode/tree/master/0049-group-anagrams) |
 | [0219-contains-duplicate-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dharaheshh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dharaheshh/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Dharaheshh/Leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharaheshh/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Dharaheshh/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Dharaheshh/Leetcode/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dharaheshh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
