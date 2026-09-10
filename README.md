@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Dharaheshh/Leetcode/tree/master/0120-triangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharaheshh/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/Dharaheshh/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0498-diagonal-traverse](https://github.com/Dharaheshh/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -108,12 +109,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Dharaheshh/Leetcode/tree/master/0200-number-of-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dharaheshh/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Dharaheshh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Dharaheshh/Leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Dharaheshh/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dharaheshh/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Bit Manipulation
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Dharaheshh/Leetcode/tree/master/0200-number-of-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dharaheshh/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dharaheshh/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quicksort
@@ -269,5 +273,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Dharaheshh/Leetcode/tree/master/0200-number-of-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dharaheshh/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
