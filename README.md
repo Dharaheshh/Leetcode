@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Dharaheshh/Leetcode/tree/master/0200-number-of-islands) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dharaheshh/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dharaheshh/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dharaheshh/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
@@ -282,13 +283,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dharaheshh/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dharaheshh/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dharaheshh/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dharaheshh/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dharaheshh/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dharaheshh/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dharaheshh/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
