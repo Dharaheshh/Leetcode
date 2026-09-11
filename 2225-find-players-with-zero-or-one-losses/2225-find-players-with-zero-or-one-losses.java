@@ -6,7 +6,7 @@ class Solution {
         for(int[] a : matches) {
             int w = a[0];
             int l = a[1];
-            m.put(w,m.getOrDefault(w,0)+0);
+            m.putIfAbsent(w, 0); //m.put(w,m.getOrDefault(w,0)+0);
             m.put(l,m.getOrDefault(l,0)+1);
         }
         for(int n:m.keySet()){
