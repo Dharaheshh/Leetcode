@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0498-diagonal-traverse](https://github.com/Dharaheshh/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0695-max-area-of-island](https://github.com/Dharaheshh/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/Dharaheshh/Leetcode/tree/master/0739-daily-temperatures) |
 | [0822-card-flipping-game](https://github.com/Dharaheshh/Leetcode/tree/master/0822-card-flipping-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharaheshh/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Dharaheshh/Leetcode/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Dharaheshh/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Dharaheshh/Leetcode/tree/master/0695-max-area-of-island) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dharaheshh/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Dharaheshh/Leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Dharaheshh/Leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/Dharaheshh/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0695-max-area-of-island](https://github.com/Dharaheshh/Leetcode/tree/master/0695-max-area-of-island) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dharaheshh/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Bit Manipulation
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Dharaheshh/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Dharaheshh/Leetcode/tree/master/0695-max-area-of-island) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dharaheshh/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dharaheshh/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Quicksort
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Dharaheshh/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Dharaheshh/Leetcode/tree/master/0695-max-area-of-island) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dharaheshh/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Tree
 |  |
