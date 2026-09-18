@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0498-diagonal-traverse](https://github.com/Dharaheshh/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Dharaheshh/Leetcode/tree/master/0695-max-area-of-island) |
+| [0706-design-hashmap](https://github.com/Dharaheshh/Leetcode/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/Dharaheshh/Leetcode/tree/master/0739-daily-temperatures) |
 | [0822-card-flipping-game](https://github.com/Dharaheshh/Leetcode/tree/master/0822-card-flipping-game) |
 | [0835-image-overlap](https://github.com/Dharaheshh/Leetcode/tree/master/0835-image-overlap) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dharaheshh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0706-design-hashmap](https://github.com/Dharaheshh/Leetcode/tree/master/0706-design-hashmap) |
 | [0822-card-flipping-game](https://github.com/Dharaheshh/Leetcode/tree/master/0822-card-flipping-game) |
 | [1386-cinema-seat-allocation](https://github.com/Dharaheshh/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Dharaheshh/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Dharaheshh/Leetcode/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Dharaheshh/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Dharaheshh/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0706-design-hashmap](https://github.com/Dharaheshh/Leetcode/tree/master/0706-design-hashmap) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Dharaheshh/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Dharaheshh/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Counting
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dharaheshh/Leetcode/tree/master/0155-min-stack) |
+| [0706-design-hashmap](https://github.com/Dharaheshh/Leetcode/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/Dharaheshh/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Dharaheshh/Leetcode/tree/master/0207-course-schedule) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Dharaheshh/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
