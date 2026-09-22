@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dharaheshh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dharaheshh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Dharaheshh/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/Dharaheshh/Leetcode/tree/master/0706-design-hashmap) |
 | [0822-card-flipping-game](https://github.com/Dharaheshh/Leetcode/tree/master/0822-card-flipping-game) |
 | [1386-cinema-seat-allocation](https://github.com/Dharaheshh/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/Dharaheshh/Leetcode/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dharaheshh/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Dharaheshh/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [1927-sum-game](https://github.com/Dharaheshh/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dharaheshh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Dharaheshh/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Dharaheshh/Leetcode/tree/master/0155-min-stack) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Dharaheshh/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/Dharaheshh/Leetcode/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/Dharaheshh/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
@@ -373,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Dharaheshh/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/Dharaheshh/Leetcode/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
