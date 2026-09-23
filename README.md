@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dharaheshh/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Dharaheshh/Leetcode/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Dharaheshh/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Dharaheshh/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Dharaheshh/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dharaheshh/Leetcode/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/Dharaheshh/Leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Dharaheshh/Leetcode/tree/master/0055-jump-game) |
 | [0397-integer-replacement](https://github.com/Dharaheshh/Leetcode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Dharaheshh/Leetcode/tree/master/0402-remove-k-digits) |
