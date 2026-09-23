@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dharaheshh/Leetcode/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Dharaheshh/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Dharaheshh/Leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/Dharaheshh/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Dharaheshh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Dharaheshh/Leetcode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Dharaheshh/Leetcode/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/Dharaheshh/Leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0397-integer-replacement](https://github.com/Dharaheshh/Leetcode/tree/master/0397-integer-replacement) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Dharaheshh/Leetcode/tree/master/0055-jump-game) |
 | [0397-integer-replacement](https://github.com/Dharaheshh/Leetcode/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Dharaheshh/Leetcode/tree/master/0402-remove-k-digits) |
 | [1386-cinema-seat-allocation](https://github.com/Dharaheshh/Leetcode/tree/master/1386-cinema-seat-allocation) |
