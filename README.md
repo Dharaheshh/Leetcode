@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Dharaheshh/Leetcode/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Dharaheshh/Leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dharaheshh/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Dharaheshh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Dharaheshh/Leetcode/tree/master/0075-sort-colors) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dharaheshh/Leetcode/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/Dharaheshh/Leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Dharaheshh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
