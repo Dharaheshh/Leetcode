@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Dharaheshh/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Dharaheshh/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Dharaheshh/Leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Dharaheshh/Leetcode/tree/master/0065-valid-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Dharaheshh/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Dharaheshh/Leetcode/tree/master/0055-jump-game) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Dharaheshh/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharaheshh/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Dharaheshh/Leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Dharaheshh/Leetcode/tree/master/0402-remove-k-digits) |
@@ -410,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Dharaheshh/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Dharaheshh/Leetcode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
