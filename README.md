@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Dharaheshh/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Dharaheshh/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Dharaheshh/Leetcode/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dharaheshh/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Dharaheshh/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dharaheshh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Dharaheshh/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dharaheshh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharaheshh/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dharaheshh/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Dharaheshh/Leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Dharaheshh/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Dharaheshh/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Dharaheshh/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Dharaheshh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0754-reach-a-number](https://github.com/Dharaheshh/Leetcode/tree/master/0754-reach-a-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Dharaheshh/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dharaheshh/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
