@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Dharaheshh/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dharaheshh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0498-diagonal-traverse](https://github.com/Dharaheshh/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/Dharaheshh/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Dharaheshh/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Dharaheshh/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Dharaheshh/Leetcode/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/Dharaheshh/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/Dharaheshh/Leetcode/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/Dharaheshh/Leetcode/tree/master/0835-image-overlap) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Dharaheshh/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Dharaheshh/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0754-reach-a-number](https://github.com/Dharaheshh/Leetcode/tree/master/0754-reach-a-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dharaheshh/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Dharaheshh/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dharaheshh/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
