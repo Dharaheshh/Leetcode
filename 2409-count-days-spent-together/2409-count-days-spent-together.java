@@ -5,11 +5,9 @@ class Solution {
         int day = Integer.parseInt(date.substring(3, 5));
         return daysBeforeMonth[month - 1] + day;
     }
-    public int countDaysTogether(String arriveAlice, String leaveAlice,
-            String arriveBob, String leaveBob) {
+    public int countDaysTogether(String arriveAlice, String leaveAlice, String arriveBob, String leaveBob) {
         int start = Math.max(dayOfYear(arriveAlice), dayOfYear(arriveBob));
         int end = Math.min(dayOfYear(leaveAlice), dayOfYear(leaveBob));
-
         return Math.max(0, end - start + 1);
     }
 }
