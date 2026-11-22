@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Dharaheshh/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Dharaheshh/Leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1927-sum-game](https://github.com/Dharaheshh/Leetcode/tree/master/1927-sum-game) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Dharaheshh/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Dharaheshh/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Dharaheshh/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/Dharaheshh/Leetcode/tree/master/2409-count-days-spent-together) |
