@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Dharaheshh/Leetcode/tree/master/0835-image-overlap) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharaheshh/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1267-count-servers-that-communicate](https://github.com/Dharaheshh/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dharaheshh/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Dharaheshh/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Dharaheshh/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Dharaheshh/Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0754-reach-a-number](https://github.com/Dharaheshh/Leetcode/tree/master/0754-reach-a-number) |
 | [0836-rectangle-overlap](https://github.com/Dharaheshh/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dharaheshh/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1563-stone-game-v](https://github.com/Dharaheshh/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Dharaheshh/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Dharaheshh/Leetcode/tree/master/1927-sum-game) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dharaheshh/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1872-stone-game-viii](https://github.com/Dharaheshh/Leetcode/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/Dharaheshh/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Dharaheshh/Leetcode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/Dharaheshh/Leetcode/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/Dharaheshh/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dharaheshh/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -365,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Dharaheshh/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Dharaheshh/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Enumeration
 |  |
 | ------- |
