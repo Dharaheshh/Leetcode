@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Dharaheshh/Leetcode/tree/master/0739-daily-temperatures) |
 | [0822-card-flipping-game](https://github.com/Dharaheshh/Leetcode/tree/master/0822-card-flipping-game) |
 | [0835-image-overlap](https://github.com/Dharaheshh/Leetcode/tree/master/0835-image-overlap) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharaheshh/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1267-count-servers-that-communicate](https://github.com/Dharaheshh/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Dharaheshh/Leetcode/tree/master/1352-product-of-the-last-k-numbers) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/Dharaheshh/Leetcode/tree/master/0322-coin-change) |
 | [0397-integer-replacement](https://github.com/Dharaheshh/Leetcode/tree/master/0397-integer-replacement) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1563-stone-game-v](https://github.com/Dharaheshh/Leetcode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Dharaheshh/Leetcode/tree/master/1872-stone-game-viii) |
 ## Backtracking
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Dharaheshh/Leetcode/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Dharaheshh/Leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Data Stream
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Dharaheshh/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Dharaheshh/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -510,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Dharaheshh/Leetcode/tree/master/0322-coin-change) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Dharaheshh/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
