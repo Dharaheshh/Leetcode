@@ -3,8 +3,7 @@ class Solution {
         int ni = 10;
         boolean ans = true;
         while (ni > 0) {
-            if (n < ni)
-                return !ans;
+            if (n < ni) return !ans;
             n -= ni;
             ni--;
             ans = !ans;
